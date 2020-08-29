@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    title추가
+    title
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
